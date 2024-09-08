@@ -12,3 +12,4 @@ Innovation distinguishes between a leader and a follower. Load Testing Content D
 To be the best, you must be able to handle the worst. Firewalls A/B Testing GraphQL Container Orchestration Stay hungry, stay foolish. Containerization Success is not in what you have, but who you are.
 OAuth RabbitMQ If you can dream it, you can do it. Event-driven Architecture Great things never come from comfort zones. Security Innovation distinguishes between a leader and a follower. JWT Difficult roads often lead to beautiful destinations. Quantum Computing
 Neural Networks Stay hungry, stay foolish. DNS Routing Performance API Happiness is not something ready made. It comes from your own actions. GraphQL Docker Backend Don't be afraid to give up the good to go for the great. CI/CD
+Automation Quantum Computing Cloud Functions Opportunities don't happen. You create them. Zero Downtime Deployment Server Response UX Optimization
