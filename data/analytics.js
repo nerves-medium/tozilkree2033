@@ -11,3 +11,4 @@ Message Queue Algorithm React Do what you love and the money will follow. Neural
 Load Balancing Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Automation Data Science Scalability Quantum Computing DNS Routing API Gateway
 Optimization Happiness is not something ready made. It comes from your own actions. Parallel Processing Zero Downtime Deployment Stay hungry, stay foolish. GraphQL
 Algorithm Containerization Neural Networks Replica Set Optimization WebSockets
+Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Replica Set Container Orchestration Load Balancing Backend GraphQL Parallel Processing Testing Microservices WebSockets
