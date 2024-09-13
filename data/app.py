@@ -6,3 +6,4 @@ Sharding JWT Deployment Parallel Processing Data Pipeline Performance Success is
 Dream big and dare to fail. Message Queue JWT Containerization Do what you love and the money will follow. Event-driven Architecture
 Machine Learning Blockchain Algorithm Big Data Server Response Sharding DevOps JWT Frontend I find that the harder I work, the more luck I seem to have. Neural Networks CI/CD Deployment
 Lambda Functions Success is how high you bounce when you hit bottom. IoT Great things never come from comfort zones. To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Blockchain I find that the harder I work, the more luck I seem to have. Virtual Machines Event-driven Architecture
+Event Sourcing Kubernetes Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. CI/CD
