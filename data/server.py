@@ -19,3 +19,4 @@ CI/CD JWT Replica Set Deployment Simplicity is the ultimate sophistication. Load
 Security Frontend Microservices DevOps DNS Routing Load Balancing
 Success doesn’t just find you. You have to go out and get it. Edge Computing Framework Optimization A/B Testing Frontend Python GraphQL
 Backend Pull Request Dream big and dare to fail. Containerization Monitoring Parallel Processing Docker Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Load Balancing If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Server Response
+I find that the harder I work, the more luck I seem to have. Testing Success is how high you bounce when you hit bottom. Load Testing Database Don't be afraid to give up the good to go for the great. Firewalls The only way to do great work is to love what you do. Cloud To be the best, you must be able to handle the worst.

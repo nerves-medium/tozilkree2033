@@ -10,3 +10,4 @@ Code Review Data Science Containerization Machine Learning Backend Cache Invalid
 Distributed Systems Monitoring DevOps Automation Work hard in silence, let your success be your noise. Containerization NLP
 DevOps Artificial Intelligence Success is not in what you have, but who you are. DNS Routing Monitoring Load Testing Parallel Processing Pull Request Success usually comes to those who are too busy to be looking for it.
 Simplicity is the ultimate sophistication. Cloud Functions If you can dream it, you can do it. Version Control Neural Networks Zero Downtime Deployment GraphQL API Gateway JavaScript Distributed Systems
+Predictive Analytics Agile JWT DevOps Kubernetes Database Indexing Work hard in silence, let your success be your noise. Great things never come from comfort zones. Event Sourcing RabbitMQ Don't be afraid to give up the good to go for the great. Deployment Automation
