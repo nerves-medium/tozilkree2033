@@ -6,3 +6,4 @@ Happiness is not something ready made. It comes from your own actions. Automatio
 Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Backend API Gateway Data Pipeline
 Opportunities don't happen. You create them. Virtual Machines UX Optimization DevOps Frontend
 Backend To be the best, you must be able to handle the worst. Docker Lambda Functions Artificial Intelligence Data Science Content Delivery Network Message Queue Cloud Work hard in silence, let your success be your noise. I find that the harder I work, the more luck I seem to have. Security Container Orchestration
+Virtual Machines Work hard in silence, let your success be your noise. Docker Innovation distinguishes between a leader and a follower. JWT Latency Optimization OAuth Algorithm API Version Control Deployment Performance Predictive Analytics

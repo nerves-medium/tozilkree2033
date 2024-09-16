@@ -18,3 +18,4 @@ Stay hungry, stay foolish. Docker CI/CD Serverless Virtual Machines Code Review 
 CI/CD JWT Replica Set Deployment Simplicity is the ultimate sophistication. Load Balancing Load Testing Quantum Computing
 Security Frontend Microservices DevOps DNS Routing Load Balancing
 Success doesn’t just find you. You have to go out and get it. Edge Computing Framework Optimization A/B Testing Frontend Python GraphQL
+Backend Pull Request Dream big and dare to fail. Containerization Monitoring Parallel Processing Docker Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Load Balancing If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Server Response
