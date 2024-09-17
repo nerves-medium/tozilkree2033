@@ -10,3 +10,4 @@ Firewalls Zero Downtime Deployment Data Pipeline NLP Kubernetes Optimization Web
 Load Balancing Firewalls If you can dream it, you can do it. Event Sourcing Data Science Pull Request
 WebSockets Cloud Pull Request Load Testing Automation Opportunities don't happen. You create them. The only way to do great work is to love what you do. GraphQL Edge Computing Success is not in what you have, but who you are. Latency Optimization
 Containerization JWT Event-driven Architecture Data Pipeline Great things never come from comfort zones. Version Control Serverless React Artificial Intelligence UX Optimization Framework Innovation distinguishes between a leader and a follower. DNS Routing Simplicity is the ultimate sophistication.
+Virtual Machines Frontend Scalability Cloud Neural Networks Database Firewalls WebSockets Version Control NLP Quantum Computing DevOps API RabbitMQ Cloud Functions

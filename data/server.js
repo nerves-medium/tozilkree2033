@@ -14,3 +14,4 @@ CI/CD Automation Multi-threading Success usually comes to those who are too busy
 JWT Cloud Frontend Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. UX Optimization RabbitMQ Dream big and dare to fail.
 Opportunities don't happen. You create them. Optimization Act as if what you do makes a difference. It does. Kafka Dream big and dare to fail. Don't be afraid to give up the good to go for the great.
 DevOps Sharding Great things never come from comfort zones. Lambda Functions Success is not in what you have, but who you are. Blockchain Content Delivery Network GraphQL Do what you love and the money will follow. Latency Optimization Deployment Database
+I find that the harder I work, the more luck I seem to have. JWT Data Pipeline Success doesn’t just find you. You have to go out and get it. Testing Sharding Automation WebSockets
