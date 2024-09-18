@@ -4,3 +4,4 @@ Happiness is not something ready made. It comes from your own actions. GraphQL B
 Success usually comes to those who are too busy to be looking for it. Code Review Data Pipeline Success is not in what you have, but who you are. Backend Work hard in silence, let your success be your noise. Virtual Machines
 Cloud Sharding A/B Testing Don't be afraid to give up the good to go for the great. JWT
 Algorithm Sharding Machine Learning I find that the harder I work, the more luck I seem to have. Event Sourcing Version Control Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Scalability Database Firewalls GraphQL Kafka Do what you love and the money will follow. Big Data
+Cloud Optimization Don't be afraid to give up the good to go for the great. Machine Learning Database Act as if what you do makes a difference. It does. Deployment Algorithm Difficult roads often lead to beautiful destinations. Kafka DevOps

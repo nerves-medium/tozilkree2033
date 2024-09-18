@@ -8,3 +8,4 @@ API Success doesn’t just find you. You have to go out and get it. The only way t
 GraphQL Latency Optimization Code Review Data Pipeline Simplicity is the ultimate sophistication. Do what you love and the money will follow. WebSockets DNS Routing Success doesn’t just find you. You have to go out and get it. RabbitMQ OAuth Testing CI/CD JavaScript
 Code Review Data Science Containerization Machine Learning Backend Cache Invalidation DNS Routing Database Sharding Content Delivery Network Docker Data Pipeline Firewalls
 Distributed Systems Monitoring DevOps Automation Work hard in silence, let your success be your noise. Containerization NLP
+DevOps Artificial Intelligence Success is not in what you have, but who you are. DNS Routing Monitoring Load Testing Parallel Processing Pull Request Success usually comes to those who are too busy to be looking for it.
