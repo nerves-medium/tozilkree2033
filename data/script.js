@@ -8,3 +8,4 @@ Happiness is not something ready made. It comes from your own actions. Database 
 Success doesn’t just find you. You have to go out and get it. DevOps Difficult roads often lead to beautiful destinations. Logging The only way to do great work is to love what you do. Data Science Firewalls JWT Optimization Zero Downtime Deployment Work hard in silence, let your success be your noise. Agile
 Cache Invalidation Performance Sharding Scalability Optimization Happiness is not something ready made. It comes from your own actions. Security
 JavaScript Dream big and dare to fail. Framework Scalability Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Frontend
+Frontend CI/CD Big Data API Gateway Monitoring Cloud Functions
