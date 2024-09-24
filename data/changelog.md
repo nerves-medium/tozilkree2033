@@ -12,3 +12,4 @@ Kubernetes Deployment Difficult roads often lead to beautiful destinations. Drea
 Cache Invalidation Container Orchestration UX Optimization JWT Pull Request Kafka Big Data OAuth
 Artificial Intelligence Lambda Functions JWT OAuth The only way to do great work is to love what you do. Great things never come from comfort zones. Neural Networks Serverless To be the best, you must be able to handle the worst. Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Frontend
 React Version Control Kubernetes Success is not in what you have, but who you are. Performance Sharding Happiness is not something ready made. It comes from your own actions. Edge Computing CI/CD Parallel Processing Success is how high you bounce when you hit bottom.
+JavaScript Artificial Intelligence Automation Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. Version Control Lambda Functions
