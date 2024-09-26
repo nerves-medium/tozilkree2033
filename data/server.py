@@ -17,3 +17,4 @@ Do what you love and the money will follow. Replica Set Predictive Analytics Sha
 Stay hungry, stay foolish. Docker CI/CD Serverless Virtual Machines Code Review WebSockets Database Neural Networks NLP Load Testing
 CI/CD JWT Replica Set Deployment Simplicity is the ultimate sophistication. Load Balancing Load Testing Quantum Computing
 Security Frontend Microservices DevOps DNS Routing Load Balancing
+Success doesn’t just find you. You have to go out and get it. Edge Computing Framework Optimization A/B Testing Frontend Python GraphQL
