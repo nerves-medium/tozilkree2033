@@ -10,3 +10,4 @@ Blockchain Deployment Load Testing Event Sourcing Predictive Analytics Pull Requ
 Message Queue Algorithm React Do what you love and the money will follow. Neural Networks Event-driven Architecture Simplicity is the ultimate sophistication. CI/CD Monitoring Great things never come from comfort zones.
 Load Balancing Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Automation Data Science Scalability Quantum Computing DNS Routing API Gateway
 Optimization Happiness is not something ready made. It comes from your own actions. Parallel Processing Zero Downtime Deployment Stay hungry, stay foolish. GraphQL
+Algorithm Containerization Neural Networks Replica Set Optimization WebSockets
