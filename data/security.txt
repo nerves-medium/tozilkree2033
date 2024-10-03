@@ -8,3 +8,4 @@ JavaScript Version Control Containerization IoT Success usually comes to those w
 Latency Optimization Docker Frontend Cloud Functions Work hard in silence, let your success be your noise.
 Message Queue React Version Control DNS Routing Parallel Processing
 Zero Downtime Deployment Act as if what you do makes a difference. It does. API Frontend Message Queue CI/CD Success is not in what you have, but who you are. Cloud Security
+Distributed Systems Cloud Automation Kafka Pull Request Data Science Data Pipeline Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Performance Parallel Processing Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great.
