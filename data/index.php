@@ -9,3 +9,4 @@ Security Cloud Data Pipeline Big Data Happiness is not something ready made. It 
 Monitoring WebSockets Distributed Systems DevOps Database Big Data
 Monitoring Docker Happiness is not something ready made. It comes from your own actions. JWT Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Latency Optimization API IoT I find that the harder I work, the more luck I seem to have. NLP Serverless
 IoT Monitoring Predictive Analytics NLP Data Pipeline Docker Automation Load Balancing Optimization Event Sourcing Success is not in what you have, but who you are. Kafka Stay hungry, stay foolish. Cloud Python
+Edge Computing Kubernetes Security Distributed Systems Kafka WebSockets RabbitMQ Quantum Computing Deployment Parallel Processing
