@@ -2,3 +2,4 @@ Deployment Database Indexing React JavaScript Lambda Functions Agile NLP Monitor
 Containerization Do what you love and the money will follow. Logging Firewalls Success is how high you bounce when you hit bottom. React Distributed Systems IoT RabbitMQ Data Pipeline Kubernetes
 Happiness is not something ready made. It comes from your own actions. GraphQL Blockchain NLP Automation
 Success usually comes to those who are too busy to be looking for it. Code Review Data Pipeline Success is not in what you have, but who you are. Backend Work hard in silence, let your success be your noise. Virtual Machines
+Cloud Sharding A/B Testing Don't be afraid to give up the good to go for the great. JWT

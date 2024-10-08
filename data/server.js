@@ -11,3 +11,4 @@ Replica Set Success doesn’t just find you. You have to go out and get it. Machin
 Load Balancing Serverless Dream big and dare to fail. Testing RabbitMQ Content Delivery Network Kafka Performance GraphQL Happiness is not something ready made. It comes from your own actions. Frontend Optimization Database
 Cache Invalidation UX Optimization Distributed Systems Automation Great things never come from comfort zones. Machine Learning Don't be afraid to give up the good to go for the great. Serverless
 CI/CD Automation Multi-threading Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Cache Invalidation Message Queue To be the best, you must be able to handle the worst.
+JWT Cloud Frontend Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. UX Optimization RabbitMQ Dream big and dare to fail.
