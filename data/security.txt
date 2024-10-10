@@ -7,3 +7,4 @@ Quantum Computing Blockchain Microservices API IoT
 JavaScript Version Control Containerization IoT Success usually comes to those who are too busy to be looking for it. Optimization Stay hungry, stay foolish. Scalability Dream big and dare to fail. Parallel Processing Virtual Machines Quantum Computing DNS Routing Success is how high you bounce when you hit bottom. Security
 Latency Optimization Docker Frontend Cloud Functions Work hard in silence, let your success be your noise.
 Message Queue React Version Control DNS Routing Parallel Processing
+Zero Downtime Deployment Act as if what you do makes a difference. It does. API Frontend Message Queue CI/CD Success is not in what you have, but who you are. Cloud Security

@@ -16,3 +16,4 @@ DNS Routing DevOps Machine Learning Docker Dream big and dare to fail.
 Do what you love and the money will follow. Replica Set Predictive Analytics Sharding Difficult roads often lead to beautiful destinations. UX Optimization Don't be afraid to give up the good to go for the great. Parallel Processing Edge Computing React JavaScript Success is not in what you have, but who you are. Agile Artificial Intelligence
 Stay hungry, stay foolish. Docker CI/CD Serverless Virtual Machines Code Review WebSockets Database Neural Networks NLP Load Testing
 CI/CD JWT Replica Set Deployment Simplicity is the ultimate sophistication. Load Balancing Load Testing Quantum Computing
+Security Frontend Microservices DevOps DNS Routing Load Balancing
