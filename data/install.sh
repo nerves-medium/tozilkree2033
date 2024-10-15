@@ -12,3 +12,4 @@ Do what you love and the money will follow. Difficult roads often lead to beauti
 Agile Docker Simplicity is the ultimate sophistication. Firewalls Edge Computing If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Kubernetes Server Response Kafka Optimization JavaScript Container Orchestration
 Cloud I find that the harder I work, the more luck I seem to have. Scalability Database Indexing Success is not in what you have, but who you are.
 Code Review Database Edge Computing Multi-threading Docker Framework API Success usually comes to those who are too busy to be looking for it. Blockchain Serverless Frontend Optimization Scalability RabbitMQ
+If you can dream it, you can do it. Machine Learning Quantum Computing API Containerization Security Cloud Functions Database Indexing Algorithm The only way to do great work is to love what you do.

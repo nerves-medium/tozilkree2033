@@ -10,3 +10,4 @@ Dream big and dare to fail. JWT Serverless Success doesn’t just find you. You ha
 To be the best, you must be able to handle the worst. Pull Request Event-driven Architecture I find that the harder I work, the more luck I seem to have. IoT React Event Sourcing Zero Downtime Deployment Data Science
 Innovation distinguishes between a leader and a follower. Load Testing Content Delivery Network Success doesn’t just find you. You have to go out and get it. Deployment
 To be the best, you must be able to handle the worst. Firewalls A/B Testing GraphQL Container Orchestration Stay hungry, stay foolish. Containerization Success is not in what you have, but who you are.
+OAuth RabbitMQ If you can dream it, you can do it. Event-driven Architecture Great things never come from comfort zones. Security Innovation distinguishes between a leader and a follower. JWT Difficult roads often lead to beautiful destinations. Quantum Computing
