@@ -14,3 +14,4 @@ I find that the harder I work, the more luck I seem to have. Framework WebSocket
 Sharding Logging Container Orchestration Neural Networks If you can dream it, you can do it. Version Control
 DNS Routing DevOps Machine Learning Docker Dream big and dare to fail.
 Do what you love and the money will follow. Replica Set Predictive Analytics Sharding Difficult roads often lead to beautiful destinations. UX Optimization Don't be afraid to give up the good to go for the great. Parallel Processing Edge Computing React JavaScript Success is not in what you have, but who you are. Agile Artificial Intelligence
+Stay hungry, stay foolish. Docker CI/CD Serverless Virtual Machines Code Review WebSockets Database Neural Networks NLP Load Testing
