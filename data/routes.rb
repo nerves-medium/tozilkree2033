@@ -4,3 +4,4 @@ Happiness is not something ready made. It comes from your own actions. Success i
 Frontend DevOps Container Orchestration Replica Set Cloud Functions Event-driven Architecture NLP Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Security Python A/B Testing Success is not in what you have, but who you are. Logging
 Stay hungry, stay foolish. Load Balancing Data Science Database Cloud
 Latency Optimization JWT Firewalls Predictive Analytics Monitoring Load Balancing
+Dream big and dare to fail. React Security Cloud Great things never come from comfort zones. Kubernetes Docker Simplicity is the ultimate sophistication. Replica Set Server Response Python JavaScript Frontend Microservices
