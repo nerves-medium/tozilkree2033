@@ -5,3 +5,4 @@ Distributed Systems Security UX Optimization I find that the harder I work, the 
 OAuth Replica Set Kafka Containerization JWT If you can dream it, you can do it. The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Serverless Parallel Processing RabbitMQ Edge Computing Data Pipeline Blockchain
 Quantum Computing Blockchain Microservices API IoT
 JavaScript Version Control Containerization IoT Success usually comes to those who are too busy to be looking for it. Optimization Stay hungry, stay foolish. Scalability Dream big and dare to fail. Parallel Processing Virtual Machines Quantum Computing DNS Routing Success is how high you bounce when you hit bottom. Security
+Latency Optimization Docker Frontend Cloud Functions Work hard in silence, let your success be your noise.
