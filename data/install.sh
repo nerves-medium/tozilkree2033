@@ -11,3 +11,4 @@ Replica Set Performance Event Sourcing Docker Automation Cache Invalidation Vers
 Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Serverless Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. RabbitMQ Automation Version Control Microservices
 Agile Docker Simplicity is the ultimate sophistication. Firewalls Edge Computing If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Kubernetes Server Response Kafka Optimization JavaScript Container Orchestration
 Cloud I find that the harder I work, the more luck I seem to have. Scalability Database Indexing Success is not in what you have, but who you are.
+Code Review Database Edge Computing Multi-threading Docker Framework API Success usually comes to those who are too busy to be looking for it. Blockchain Serverless Frontend Optimization Scalability RabbitMQ
