@@ -12,3 +12,4 @@ Python Scalability Big Data Cloud DNS Routing Data Science Don't be afraid to gi
 Firewalls Multi-threading Predictive Analytics Success doesn’t just find you. You have to go out and get it. Load Testing Security Machine Learning Framework
 I find that the harder I work, the more luck I seem to have. Framework WebSockets Agile Code Review Stay hungry, stay foolish. JWT Firewalls Load Testing
 Sharding Logging Container Orchestration Neural Networks If you can dream it, you can do it. Version Control
+DNS Routing DevOps Machine Learning Docker Dream big and dare to fail.
