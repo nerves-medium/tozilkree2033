@@ -2,3 +2,4 @@ OAuth Opportunities don't happen. You create them. Load Testing Serverless IoT W
 Frontend Optimization Big Data Zero Downtime Deployment Load Balancing Blockchain Kubernetes IoT Pull Request GraphQL Event Sourcing Success is not in what you have, but who you are.
 CI/CD Lambda Functions Containerization Success is not in what you have, but who you are. Predictive Analytics
 Agile OAuth Edge Computing Framework Load Balancing Python Opportunities don't happen. You create them. WebSockets GraphQL Quantum Computing JavaScript
+Backend Neural Networks JWT Logging Container Orchestration DevOps Distributed Systems Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. RabbitMQ
