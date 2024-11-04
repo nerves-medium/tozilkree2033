@@ -11,3 +11,4 @@ Containerization DNS Routing The only way to do great work is to love what you d
 Python Scalability Big Data Cloud DNS Routing Data Science Don't be afraid to give up the good to go for the great. Content Delivery Network RabbitMQ Frontend Success usually comes to those who are too busy to be looking for it.
 Firewalls Multi-threading Predictive Analytics Success doesn’t just find you. You have to go out and get it. Load Testing Security Machine Learning Framework
 I find that the harder I work, the more luck I seem to have. Framework WebSockets Agile Code Review Stay hungry, stay foolish. JWT Firewalls Load Testing
+Sharding Logging Container Orchestration Neural Networks If you can dream it, you can do it. Version Control
