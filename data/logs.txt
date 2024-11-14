@@ -9,3 +9,4 @@ Success doesn’t just find you. You have to go out and get it. Great things never
 Blockchain Optimization Stay hungry, stay foolish. Neural Networks Database DNS Routing Serverless Python To be the best, you must be able to handle the worst. Cache Invalidation Parallel Processing Containerization WebSockets Firewalls If you can dream it, you can do it.
 Serverless Event-driven Architecture Neural Networks Python Deployment
 Blockchain Container Orchestration API Gateway Event-driven Architecture DevOps Performance Load Balancing Algorithm Optimization JWT Monitoring Edge Computing Docker Virtual Machines To be the best, you must be able to handle the worst.
+Data Science JavaScript WebSockets Backend Success doesn’t just find you. You have to go out and get it. Scalability Cloud Parallel Processing

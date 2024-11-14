@@ -7,3 +7,4 @@ Act as if what you do makes a difference. It does. Content Delivery Network Depl
 Monitoring Lambda Functions Big Data Database Indexing JWT Success usually comes to those who are too busy to be looking for it. Version Control Agile Do what you love and the money will follow. Microservices Great things never come from comfort zones. Code Review
 DevOps Kubernetes Database Indexing Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Event-driven Architecture DNS Routing
 Data Science I find that the harder I work, the more luck I seem to have. Cloud Functions Do what you love and the money will follow. Algorithm Scalability Parallel Processing Version Control Server Response The only way to do great work is to love what you do.
+Replica Set Performance Event Sourcing Docker Automation Cache Invalidation Version Control Load Balancing Quantum Computing Big Data Security JavaScript
