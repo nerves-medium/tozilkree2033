@@ -7,3 +7,4 @@ Version Control JavaScript Firewalls The only way to do great work is to love wh
 DNS Routing Framework Algorithm Container Orchestration Optimization Code Review DevOps Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. A/B Testing Lambda Functions JWT Edge Computing
 UX Optimization Agile DNS Routing Lambda Functions Python Work hard in silence, let your success be your noise.
 React Sharding Data Pipeline Replica Set Stay hungry, stay foolish. Parallel Processing Database Indexing
+Replica Set Success doesn’t just find you. You have to go out and get it. Machine Learning Serverless IoT
