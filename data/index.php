@@ -7,3 +7,4 @@ Cache Invalidation Simplicity is the ultimate sophistication. DevOps Kubernetes 
 Optimization Automation Success is not in what you have, but who you are. Server Response Scalability
 Security Cloud Data Pipeline Big Data Happiness is not something ready made. It comes from your own actions. Load Testing To be the best, you must be able to handle the worst. IoT DevOps Predictive Analytics Act as if what you do makes a difference. It does.
 Monitoring WebSockets Distributed Systems DevOps Database Big Data
+Monitoring Docker Happiness is not something ready made. It comes from your own actions. JWT Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Latency Optimization API IoT I find that the harder I work, the more luck I seem to have. NLP Serverless
