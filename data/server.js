@@ -6,3 +6,4 @@ Zero Downtime Deployment Kafka API Gateway Testing Security Pull Request
 Version Control JavaScript Firewalls The only way to do great work is to love what you do. Opportunities don't happen. You create them. Sharding Framework Don't be afraid to give up the good to go for the great. Edge Computing
 DNS Routing Framework Algorithm Container Orchestration Optimization Code Review DevOps Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. A/B Testing Lambda Functions JWT Edge Computing
 UX Optimization Agile DNS Routing Lambda Functions Python Work hard in silence, let your success be your noise.
+React Sharding Data Pipeline Replica Set Stay hungry, stay foolish. Parallel Processing Database Indexing
