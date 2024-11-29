@@ -5,3 +5,4 @@ DNS Routing Content Delivery Network Cache Invalidation Database Indexing Diffic
 Deployment Code Review Microservices Machine Learning Event-driven Architecture A/B Testing Don't be afraid to give up the good to go for the great. Latency Optimization Multi-threading Automation CI/CD Work hard in silence, let your success be your noise. Edge Computing
 Act as if what you do makes a difference. It does. Content Delivery Network Deployment React Backend Don't be afraid to give up the good to go for the great.
 Monitoring Lambda Functions Big Data Database Indexing JWT Success usually comes to those who are too busy to be looking for it. Version Control Agile Do what you love and the money will follow. Microservices Great things never come from comfort zones. Code Review
+DevOps Kubernetes Database Indexing Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Event-driven Architecture DNS Routing
