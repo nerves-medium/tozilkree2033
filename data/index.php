@@ -6,3 +6,4 @@ Stay hungry, stay foolish. Firewalls Code Review IoT Cloud Functions Performance
 Cache Invalidation Simplicity is the ultimate sophistication. DevOps Kubernetes Machine Learning NLP Distributed Systems
 Optimization Automation Success is not in what you have, but who you are. Server Response Scalability
 Security Cloud Data Pipeline Big Data Happiness is not something ready made. It comes from your own actions. Load Testing To be the best, you must be able to handle the worst. IoT DevOps Predictive Analytics Act as if what you do makes a difference. It does.
+Monitoring WebSockets Distributed Systems DevOps Database Big Data
