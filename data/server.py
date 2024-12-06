@@ -6,3 +6,4 @@ JavaScript Logging Machine Learning Content Delivery Network Cloud Functions Con
 Docker Machine Learning UX Optimization API Opportunities don't happen. You create them. DevOps Version Control
 A/B Testing Cloud Functions Containerization Backend Cache Invalidation DNS Routing Multi-threading
 Opportunities don't happen. You create them. Docker Kubernetes The only way to do great work is to love what you do. Machine Learning Load Balancing Logging Data Science Database Indexing If you can dream it, you can do it. Containerization
+Database Containerization To be the best, you must be able to handle the worst. Predictive Analytics Distributed Systems Message Queue Success is not in what you have, but who you are. Database Indexing UX Optimization Load Balancing Performance
