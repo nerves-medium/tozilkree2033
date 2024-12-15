@@ -5,3 +5,4 @@ Event-driven Architecture Deployment API Gateway Replica Set Machine Learning Pr
 JavaScript Logging Machine Learning Content Delivery Network Cloud Functions Container Orchestration Message Queue UX Optimization Kubernetes Pull Request
 Docker Machine Learning UX Optimization API Opportunities don't happen. You create them. DevOps Version Control
 A/B Testing Cloud Functions Containerization Backend Cache Invalidation DNS Routing Multi-threading
+Opportunities don't happen. You create them. Docker Kubernetes The only way to do great work is to love what you do. Machine Learning Load Balancing Logging Data Science Database Indexing If you can dream it, you can do it. Containerization

@@ -4,3 +4,4 @@ Quantum Computing Frontend Great things never come from comfort zones. Cache Inv
 Kafka RabbitMQ Scalability Quantum Computing Logging I find that the harder I work, the more luck I seem to have. DNS Routing Edge Computing DevOps Multi-threading JWT Machine Learning Serverless
 Data Pipeline Big Data Act as if what you do makes a difference. It does. Logging Opportunities don't happen. You create them.
 Big Data Framework Edge Computing Backend Virtual Machines Artificial Intelligence Optimization
+Great things never come from comfort zones. Neural Networks Kubernetes Content Delivery Network Security Agile Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Algorithm Server Response Deployment DNS Routing To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions.
