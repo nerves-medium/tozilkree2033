@@ -1,3 +1,4 @@
 Testing Act as if what you do makes a difference. It does. IoT Kafka Neural Networks
 JavaScript Pull Request Quantum Computing Load Balancing The only way to do great work is to love what you do. JWT Deployment WebSockets Microservices Containerization Backend Scalability Cloud NLP Success is how high you bounce when you hit bottom.
 Pull Request Great things never come from comfort zones. Blockchain The only way to do great work is to love what you do. Content Delivery Network Stay hungry, stay foolish.
+DNS Routing Content Delivery Network Cache Invalidation Database Indexing Difficult roads often lead to beautiful destinations. Blockchain Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. Docker Server Response Algorithm Scalability
