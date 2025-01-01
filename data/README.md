@@ -1,2 +1,3 @@
 Content Delivery Network The only way to do great work is to love what you do. Version Control Frontend Neural Networks If you can dream it, you can do it. Do what you love and the money will follow. Database Indexing JWT Success doesn’t just find you. You have to go out and get it. Load Balancing Kafka
 Version Control DevOps The only way to do great work is to love what you do. UX Optimization Quantum Computing Edge Computing Work hard in silence, let your success be your noise. Optimization Opportunities don't happen. You create them. Logging
+Python Agile Data Science API Simplicity is the ultimate sophistication. Dream big and dare to fail. Opportunities don't happen. You create them. Performance Replica Set Latency Optimization
