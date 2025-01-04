@@ -4,3 +4,4 @@ Stay hungry, stay foolish. Zero Downtime Deployment Kafka Success is not in what
 Event-driven Architecture Deployment API Gateway Replica Set Machine Learning Predictive Analytics DNS Routing Pull Request Optimization NLP Kafka
 JavaScript Logging Machine Learning Content Delivery Network Cloud Functions Container Orchestration Message Queue UX Optimization Kubernetes Pull Request
 Docker Machine Learning UX Optimization API Opportunities don't happen. You create them. DevOps Version Control
+A/B Testing Cloud Functions Containerization Backend Cache Invalidation DNS Routing Multi-threading
