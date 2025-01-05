@@ -3,3 +3,4 @@ DevOps Virtual Machines Latency Optimization Event-driven Architecture Logging V
 Neural Networks Algorithm Parallel Processing Success is how high you bounce when you hit bottom. If you can dream it, you can do it.
 Security Success doesn’t just find you. You have to go out and get it. DevOps Data Pipeline Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Python Don't be afraid to give up the good to go for the great. Logging Virtual Machines Lambda Functions Neural Networks Blockchain Load Balancing
 Agile I find that the harder I work, the more luck I seem to have. RabbitMQ Great things never come from comfort zones. Distributed Systems API Gateway
+API JavaScript Algorithm Event-driven Architecture Kafka UX Optimization Data Pipeline DevOps Sharding
