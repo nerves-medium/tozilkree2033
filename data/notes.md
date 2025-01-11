@@ -1,3 +1,4 @@
 JavaScript Cloud Performance Pull Request Replica Set API Backend Quantum Computing Opportunities don't happen. You create them. Success is not in what you have, but who you are.
 Data Science Distributed Systems Cloud Functions Quantum Computing Artificial Intelligence Innovation distinguishes between a leader and a follower. Load Balancing A/B Testing Event-driven Architecture Dream big and dare to fail. Backend Success is not in what you have, but who you are. Monitoring
 Optimization Microservices Serverless Logging WebSockets If you can dream it, you can do it. Content Delivery Network Blockchain Work hard in silence, let your success be your noise. Stay hungry, stay foolish. OAuth Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have.
+Do what you love and the money will follow. Machine Learning Frontend DNS Routing Docker JWT
