@@ -3,3 +3,4 @@ Security Lambda Functions Algorithm Pull Request Content Delivery Network Perfor
 Stay hungry, stay foolish. Zero Downtime Deployment Kafka Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. Parallel Processing Load Balancing
 Event-driven Architecture Deployment API Gateway Replica Set Machine Learning Predictive Analytics DNS Routing Pull Request Optimization NLP Kafka
 JavaScript Logging Machine Learning Content Delivery Network Cloud Functions Container Orchestration Message Queue UX Optimization Kubernetes Pull Request
+Docker Machine Learning UX Optimization API Opportunities don't happen. You create them. DevOps Version Control
