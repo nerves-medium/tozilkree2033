@@ -2,3 +2,4 @@ Database Happiness is not something ready made. It comes from your own actions. 
 UX Optimization Cloud Docker Pull Request Lambda Functions The only way to do great work is to love what you do. Container Orchestration Deployment Python I find that the harder I work, the more luck I seem to have. GraphQL Microservices Dream big and dare to fail. IoT Sharding
 IoT Frontend Firewalls React Success is how high you bounce when you hit bottom. Load Balancing Database Indexing Pull Request Code Review Algorithm
 Machine Learning Big Data DevOps I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Quantum Computing Simplicity is the ultimate sophistication. If you can dream it, you can do it. Testing Deployment Security Great things never come from comfort zones. Docker
+Zero Downtime Deployment Kafka API Gateway Testing Security Pull Request
