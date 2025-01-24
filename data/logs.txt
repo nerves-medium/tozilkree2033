@@ -1,2 +1,3 @@
 Data Pipeline Pull Request Difficult roads often lead to beautiful destinations. Code Review Firewalls GraphQL
 DevOps Virtual Machines Latency Optimization Event-driven Architecture Logging Version Control Testing
+Neural Networks Algorithm Parallel Processing Success is how high you bounce when you hit bottom. If you can dream it, you can do it.
