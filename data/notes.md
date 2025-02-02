@@ -1,1 +1,2 @@
 JavaScript Cloud Performance Pull Request Replica Set API Backend Quantum Computing Opportunities don't happen. You create them. Success is not in what you have, but who you are.
+Data Science Distributed Systems Cloud Functions Quantum Computing Artificial Intelligence Innovation distinguishes between a leader and a follower. Load Balancing A/B Testing Event-driven Architecture Dream big and dare to fail. Backend Success is not in what you have, but who you are. Monitoring
